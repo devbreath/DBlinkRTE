@@ -1,6 +1,6 @@
 # DBlinkRTE
-DBlink Runtime Tables Explorer
-Tool for analysing structure of external DB's via dblink.
+# DBlink Runtime Tables Explorer
+# Tool for analysing structure of external DB's via dblink.
 Features:
 - list tables;
 - show table structure;
